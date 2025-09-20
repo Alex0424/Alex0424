@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on 'Python OOP'
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working with CI-CD
+- 🌱 Junior DevOps Engineer
 - 👯 I’m looking to collaborate on LinkedIn
 - 💬 Ask me about DevOps
 - 📫 How to reach me: lindholmalex.la@gmail.com
